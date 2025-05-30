@@ -19,13 +19,11 @@ Penetration Tester | Malware Analysis | Article Writer
 
 # Social Networks
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andrewmamdouh122)](https://github.com/andrewmamdouh122)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-mamdouh122)](https://www.linkedin.com/in/andrew-mamdouh122/)
-
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrewmamdouh122)](https://github.com/andrewmamdouh122)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-mamdouh122)](https://www.linkedin.com/in/andrew-mamdouh122)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3Cr4zy)](https://twitter.com/C0d3Cr4zy)
+[![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@andrewmamdouh122)](https://medium.com/@andrewmamdouh122)
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@yourusername)](https://medium.com/@yourusername)
 
 
 ## Programming Languages
