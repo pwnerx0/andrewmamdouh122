@@ -1,7 +1,7 @@
 
 ### I'm Andrew Mamdouh
 
-Penetration Tester | InfoSec Leader | Malware Analysis | Article Writer 
+Penetration Tester | Malware Analysis | Article Writer 
 <br>
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
