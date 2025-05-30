@@ -31,4 +31,4 @@ Penetration Tester | Malware Analysis | Malware Dev | CTF Player | Article Write
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmamdouh122&layout=compact&theme=dark)](https://github.com/andrewmamdouh122/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmamdouh122&layout=compact&theme=dark&card_width=400)](https://github.com/andrewmamdouh122/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmamdouh122&layout=compact&theme=dark&card_width=350)](https://github.com/andrewmamdouh122/github-readme-stats)
