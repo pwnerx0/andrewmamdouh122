@@ -8,7 +8,7 @@ Penetration Tester | Malware Analysis | Malware Dev | CTF Player | Article Write
 
 </br>
 
-[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewmamdouh122&theme=dark&card_width=440)](https://github.com/andrewmamdouh122/github-readme-stats)
+<!--[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewmamdouh122&theme=dark&card_width=440)](https://github.com/andrewmamdouh122/github-readme-stats)-->
 
 :computer: I'm penetration tester.
 
