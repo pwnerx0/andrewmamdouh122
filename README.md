@@ -28,5 +28,5 @@ Penetration Tester | Malware Analysis | Malware Dev | CTF Player | Article Write
 
 
 ## Programming Languages
-[![Top Langs]()](https://github.com/andrewmamdouh122/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmamdouh122&theme=dark&card_width=440)](https://github.com/andrewmamdouh122/github-readme-stats)
 
