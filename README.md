@@ -16,11 +16,7 @@ Penetration Tester | Malware Analysis | Article Writer
 
 :books: I'm currently learning all about IT and Security.
 
-## Social Networks
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CyberSecurityUP)](https://github.com/CyberSecurityUP)
-
 
 
 ## Programming Languages
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&layout=compact&theme=tokyonight"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmamdouh122&layout=compact&theme=tokyonight"/>
