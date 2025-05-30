@@ -25,6 +25,8 @@ Penetration Tester | Malware Analysis | Article Writer
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3Cr4zy)](https://twitter.com/C0d3Cr4zy)
 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@yourusername)](https://medium.com/@yourusername)
+
 
 ## Programming Languages
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmamdouh122&layout=compact&theme=tokyonight"/>
